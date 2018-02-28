@@ -5,7 +5,10 @@
 - [SQL Patch](https://blogs.oracle.com/optimizer/using-sql-patch-to-add-hints-to-a-packaged-application) - How to create a SQL Patch
 - [Security Patches](https://www.oracle.com/technetwork/topics/security/alerts-086861.html) - Oracle Security Patches
 ## oracle database docs
-- [18c](https://docs.oracle.com/en/database/oracle/oracle-database/index.html) - 18c
+- [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
+- [12.2](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/index.html) - 12.2
+- [12.1](https://docs.oracle.com/database/121/index.htm) - 12.1
+- [11.2](https://docs.oracle.com/cd/E11882_01/index.htm) - 11.2
 ## MOS Notes
 - [Database Release Schedule](https://support.oracle.com/epmos/faces/DocContentDisplay?id=742060.1) - List current release schedule.
 - [GoldenGate Master Note](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1298817.1) - Master Note for GoldenGate
