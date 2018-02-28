@@ -8,3 +8,4 @@
 - [Database Release Schedule](https://support.oracle.com/epmos/faces/DocContentDisplay?id=742060.1) - List current release schedule.
 - [GoldenGate Master Note](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1298817.1) - Master Note for GoldenGate
 - [Exadata Best Practices](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1274318.1) - Best Practices for Exadata
+- [Exadata Patching Overview](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1262380.1) - Overview of Exadata patches
