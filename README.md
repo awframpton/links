@@ -15,3 +15,5 @@
 - [Exadata Best Practices](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1274318.1) - Best Practices for Exadata
 - [Exadata Patching Overview](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1262380.1) - Overview of Exadata patches
 - [Exadata Supported Versions](https://support.oracle.com/epmos/faces/DocContentDisplay?id=888828.1) - Exadata software versions.
+## postgres
+- [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
