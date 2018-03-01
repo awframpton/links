@@ -9,6 +9,10 @@
 - [12.2](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/index.html) - 12.2
 - [12.1](https://docs.oracle.com/database/121/index.htm) - 12.1
 - [11.2](https://docs.oracle.com/cd/E11882_01/index.htm) - 11.2
+## oracle goldengate docs
+- [12.3](https://docs.oracle.com/goldengate/c1230/gg-winux/index.html) - 12.3
+- [12.2](https://docs.oracle.com/goldengate/c1221/gg-winux/index.html) - 12.2
+- [12.1](https://docs.oracle.com/goldengate/1212/gg-winux/index.html) - 12.1
 ## MOS Notes
 - [Database Release Schedule](https://support.oracle.com/epmos/faces/DocContentDisplay?id=742060.1) - List current release schedule.
 - [GoldenGate Master Note](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1298817.1) - Master Note for GoldenGate
