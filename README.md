@@ -22,3 +22,5 @@
 - [Exadata 12.2 Grid Upgrade](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2111010.1) - Upgrade Exadata to 12.2
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
+## blogs
+- [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
