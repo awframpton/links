@@ -13,6 +13,7 @@
 - [12.3](https://docs.oracle.com/goldengate/c1230/gg-winux/index.html) - 12.3
 - [12.2](https://docs.oracle.com/goldengate/c1221/gg-winux/index.html) - 12.2
 - [12.1](https://docs.oracle.com/goldengate/1212/gg-winux/index.html) - 12.1
+- [12.3 Big Data](https://docs.oracle.com/goldengate/bd123010/gg-bd/index.html) - 12.3 Big Data
 ## MOS Notes
 - [Database Release Schedule](https://support.oracle.com/epmos/faces/DocContentDisplay?id=742060.1) - List current release schedule.
 - [GoldenGate Master Note](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1298817.1) - Master Note for GoldenGate
