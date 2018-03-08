@@ -24,3 +24,5 @@
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 ## blogs
 - [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
+## oracle tuning
+- [Extended Statistics](https://blogs.oracle.com/optimizer/extended-statistics) - how to use extended statistics
