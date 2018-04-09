@@ -21,6 +21,7 @@
 - [Exadata Patching Overview](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1262380.1) - Overview of Exadata patches
 - [Exadata Supported Versions](https://support.oracle.com/epmos/faces/DocContentDisplay?id=888828.1) - Exadata software versions.
 - [Exadata 12.2 Grid Upgrade](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2111010.1) - Upgrade Exadata to 12.2
+- [Welcome to Platinum Services](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1605750.1) - Platinum Services
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 ## blogs
