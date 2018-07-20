@@ -24,6 +24,7 @@
 - [Welcome to Platinum Services](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1605750.1) - Platinum Services
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
+- [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
 ## blogs
 - [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
 ## oracle tuning
