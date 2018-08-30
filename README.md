@@ -29,3 +29,5 @@
 - [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
 ## oracle tuning
 - [Extended Statistics](https://blogs.oracle.com/optimizer/extended-statistics) - how to use extended statistics
+##Python
+- [Oracle Example](https://laurent-leturgez.com/2018/08/30/executing-a-sql-statement-on-oracle-with-python/amp/?__twitter_impression=true) - Oracle by Laurent Leturgez
