@@ -31,3 +31,4 @@
 - [Extended Statistics](https://blogs.oracle.com/optimizer/extended-statistics) - how to use extended statistics
 ## Python
 - [Oracle Example](https://laurent-leturgez.com/2018/08/30/executing-a-sql-statement-on-oracle-with-python/amp/?__twitter_impression=true) - Oracle by Laurent Leturgez
+- [Django Extensions](https://opensource.com/article/18/9/django-packages?sc_cid=701f2000000RRBeAAO)
