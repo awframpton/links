@@ -32,3 +32,5 @@
 ## Python
 - [Oracle Example](https://laurent-leturgez.com/2018/08/30/executing-a-sql-statement-on-oracle-with-python/amp/?__twitter_impression=true) - Oracle by Laurent Leturgez
 - [Django Extensions](https://opensource.com/article/18/9/django-packages?sc_cid=701f2000000RRBeAAO)
+## misc
+- [Exadata MAA](https://www.oracle.com/technetwork/database/availability/exadata-maa-best-practices-155385.html)
