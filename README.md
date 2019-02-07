@@ -26,6 +26,7 @@
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
+- [Scaling Postgres](https://www.scalingpostgres.com/) - Postgres Podcast, a wealth of information!!!!
 ## blogs
 - [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
 ## oracle tuning
