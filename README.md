@@ -35,6 +35,7 @@
 - [Oracle Example](https://laurent-leturgez.com/2018/08/30/executing-a-sql-statement-on-oracle-with-python/amp/?__twitter_impression=true) - Oracle by Laurent Leturgez
 - [Django Extensions](https://opensource.com/article/18/9/django-packages?sc_cid=701f2000000RRBeAAO)
 - [Import Python Newsletter](https://importpython.com/newsletter/) - Good Python Newsletter
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/latest/) - ORM
 ## GoldenGate
 - [Oracle ATeam](http://www.ateam-oracle.com/di-ogg/) - Good repo of articles written by Oracle's ATeam.
 ## misc
