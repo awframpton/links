@@ -5,6 +5,7 @@
 - [SQL Patch](https://blogs.oracle.com/optimizer/using-sql-patch-to-add-hints-to-a-packaged-application) - How to create a SQL Patch
 - [Security Patches](https://www.oracle.com/technetwork/topics/security/alerts-086861.html) - Oracle Security Patches
 - [Oracle Base](https://oracle-base.com/) - Lots of good Oracle articles by Tim Hall
+- [Certified Platinum Configurations](http://www.oracle.com/us/support/library/certified-platinum-configs-1652888.pdf) - List of versions supported by Oracle Platinum Services.
 ## oracle database docs
 - [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
 - [12.2](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/index.html) - 12.2
