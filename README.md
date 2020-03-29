@@ -39,6 +39,7 @@
 - [Django Extensions](https://opensource.com/article/18/9/django-packages?sc_cid=701f2000000RRBeAAO)
 - [Import Python Newsletter](https://importpython.com/newsletter/) - Good Python Newsletter
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/latest/) - ORM
+- [Functional Python](https://jessewarden.com/2020/03/write-unbreakable-python.html) - How to write unbreakable Python
 ## GoldenGate
 - [Oracle ATeam](http://www.ateam-oracle.com/di-ogg/) - Good repo of articles written by Oracle's ATeam.
 ## misc
