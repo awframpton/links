@@ -26,6 +26,7 @@
 - [Exadata 12.2 Grid Upgrade](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2111010.1) - Upgrade Exadata to 12.2
 - [Welcome to Platinum Services](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1605750.1) - Platinum Services
 - [Oracle Enterprise Metadata Management](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2269883.1) - Oracle Enterprise Metadata Management Download (OEMM)
+- [JDBC Compatibility Matrix](https://support.oracle.com/epmos/faces/DocContentDisplay?id=401934.1) - JDBC Driver compatibility matrix
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
