@@ -44,5 +44,7 @@
 - [Functional Python](https://jessewarden.com/2020/03/write-unbreakable-python.html) - How to write unbreakable Python
 ## GoldenGate
 - [Oracle ATeam](http://www.ateam-oracle.com/di-ogg/) - Good repo of articles written by Oracle's ATeam.
+## Ansible
+- [Building a Module](https://de.slideshare.net/yfauser/ansible-module-development-101-58580867) - A good presentation on building an Ansible Module
 ## misc
 - [Exadata MAA](https://www.oracle.com/technetwork/database/availability/exadata-maa-best-practices-155385.html)
