@@ -29,6 +29,7 @@
 - [Oracle Enterprise Metadata Management](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2269883.1) - Oracle Enterprise Metadata Management Download (OEMM)
 - [JDBC Compatibility Matrix](https://support.oracle.com/epmos/faces/DocContentDisplay?id=401934.1) - JDBC Driver compatibility matrix
 - [Tuning SQL to Smart Scan](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2608210.1) - getting your SQL to smart scan
+- [Download Assistant](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2118136.2) - patch download assistant
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
