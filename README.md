@@ -57,3 +57,4 @@
 - [TuxURLs](https://tuxurls.com) - Linux news aggregator
 ## misc
 - [Exadata MAA](https://www.oracle.com/technetwork/database/availability/exadata-maa-best-practices-155385.html)
+- [XModulo Linux FAQ](https://www.xmodulo.com/) - Lots of Linux articles
