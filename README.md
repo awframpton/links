@@ -8,6 +8,7 @@
 - [Certified Platinum Configurations](http://www.oracle.com/us/support/library/certified-platinum-configs-1652888.pdf) - List of versions supported by Oracle Platinum Services.
 - [Oracle Free for Devs](https://gvenzl.github.io/free-oracle-for-devs/#/) - Free stuff for developers.
 - [Carlos Sierra ASH Analytics](https://carlos-sierra.net/2021/01/01/ash-analytics-from-sqlplus/) - ASH Analytics from sqlplus
+- [Technical White Papers](https://connor-mcdonald.com/2021/03/19/twp-technical-white-paper/) - Connor McDonald's list of white papers
 ## oracle database docs
 - [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
 - [12.2](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/index.html) - 12.2
