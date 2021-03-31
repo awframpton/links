@@ -34,6 +34,7 @@
 - [19c self guided upgrade](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1919.2) - self guided 19c upgrade guide
 - [recommended 19c oneoff patches](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2720807.1) - list of oneoff patches for 19c
 - [Client Server Compatibility](https://support.oracle.com/epmos/faces/DocContentDisplay?id=207303.1) - list of client/server versions that are compatible
+- [Timezone Patches](https://support.oracle.com/epmos/faces/DocContentDisplay?id=412160.1) - info on timezone patches
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
