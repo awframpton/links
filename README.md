@@ -10,6 +10,7 @@
 - [Carlos Sierra ASH Analytics](https://carlos-sierra.net/2021/01/01/ash-analytics-from-sqlplus/) - ASH Analytics from sqlplus
 - [Technical White Papers](https://connor-mcdonald.com/2021/03/19/twp-technical-white-paper/) - Connor McDonald's list of white papers
 ## oracle database docs
+- [19c](https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html) - 18c
 - [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
 - [12.2](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/index.html) - 12.2
 - [12.1](https://docs.oracle.com/database/121/index.htm) - 12.1
