@@ -62,3 +62,4 @@
 ## misc
 - [Exadata MAA](https://www.oracle.com/technetwork/database/availability/exadata-maa-best-practices-155385.html)
 - [XModulo Linux FAQ](https://www.xmodulo.com/) - Lots of Linux articles
+- [FFMPEG Quick Guide](https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats) - Quick guide to using ffmpeg
