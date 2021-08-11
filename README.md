@@ -36,6 +36,7 @@
 - [recommended 19c oneoff patches](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2720807.1) - list of oneoff patches for 19c
 - [Client Server Compatibility](https://support.oracle.com/epmos/faces/DocContentDisplay?id=207303.1) - list of client/server versions that are compatible
 - [Timezone Patches](https://support.oracle.com/epmos/faces/DocContentDisplay?id=412160.1) - info on timezone patches
+- [ExaCC Information Center](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2522950.2)
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
