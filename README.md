@@ -1,5 +1,8 @@
 # links
 [Awesome List](https://awesome.re/) - Got this whole thing started
+## Christian
+- [Thru the Bible](https://ttb.org/) - Go through the Bible in 5 years, and many other resources.
+- [Bible Broadcasting Network](https://bbnradio.org/) - Bible based programming on radio and Internet, and other resources.
 ## oracle
 - [Mike Dietrich's Blog](https://mikedietrichde.com/) - Information on upgrading Oracle database.
 - [SQL Patch](https://blogs.oracle.com/optimizer/using-sql-patch-to-add-hints-to-a-packaged-application) - How to create a SQL Patch
