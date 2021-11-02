@@ -43,6 +43,7 @@
 - [ExaCC Information Center](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2522950.2)
 - [Exadata Diagnostics Guide](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1353073.2)
 - [TFA/AHF](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2550798.1) - diagnostic tool, includes exachk
+- [Reboot Storage cell](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1188080.1) - steps to reboot a storage cell without affecting ASM.
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
