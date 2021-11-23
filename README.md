@@ -13,6 +13,7 @@
 - [Carlos Sierra ASH Analytics](https://carlos-sierra.net/2021/01/01/ash-analytics-from-sqlplus/) - ASH Analytics from sqlplus
 - [Technical White Papers](https://connor-mcdonald.com/2021/03/19/twp-technical-white-paper/) - Connor McDonald's list of white papers
 - [Exadata Videos](https://www.oracle.com/corporate/events/exadata-virtual-events.html) - On-demand Exadata videos.
+- [Database Office Hours](https://asktom.oracle.com/pls/apex/asktom.search?oh=864) - asktom database office hours
 ## oracle database docs
 - [19c](https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html) - 19c
 - [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
