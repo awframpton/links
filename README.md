@@ -14,6 +14,7 @@
 - [Technical White Papers](https://connor-mcdonald.com/2021/03/19/twp-technical-white-paper/) - Connor McDonald's list of white papers
 - [Exadata Videos](https://www.oracle.com/corporate/events/exadata-virtual-events.html) - On-demand Exadata videos.
 - [Database Office Hours](https://asktom.oracle.com/pls/apex/asktom.search?oh=864) - asktom database office hours
+- [Upgrade Youtube Channel](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Oracle Database Upgrades Youtube Channel
 ## oracle database docs
 - [19c](https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html) - 19c
 - [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
