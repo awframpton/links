@@ -64,6 +64,8 @@
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/latest/) - ORM
 - [Functional Python](https://jessewarden.com/2020/03/write-unbreakable-python.html) - How to write unbreakable Python
 - [Config Files](https://opensource.com/article/21/6/parse-configuration-files-python) - How to parse config files.
+- [Gunicorn web server](https://gunicorn.org/) - WSGI HTTP Server written in Python
+- [Celery](https://docs.celeryproject.org/en/stable/) - Task queue
 ## GoldenGate
 - [Oracle ATeam](http://www.ateam-oracle.com/di-ogg/) - Good repo of articles written by Oracle's ATeam.
 ## Ansible
