@@ -16,6 +16,7 @@
 - [Database Office Hours](https://asktom.oracle.com/pls/apex/asktom.search?oh=864) - asktom database office hours
 - [Upgrade Youtube Channel](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Oracle Database Upgrades Youtube Channel
 - [Morgans Library](http://www.morganslibrary.org/) - Tons of Oracle content here.
+- [CMAN](https://download.oracle.com/ocomdocs/global/CMAN_TDM_Oracle_DB_Connection_Proxy_for_scalable_apps.pdf) - CMAN TDM doc
 ## oracle database docs
 - [19c](https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html) - 19c
 - [18c](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html) - 18c
