@@ -24,6 +24,7 @@
 - [12.1](https://docs.oracle.com/database/121/index.htm) - 12.1
 - [11.2](https://docs.oracle.com/cd/E11882_01/index.htm) - 11.2
 ## oracle goldengate docs
+- [19.1](https://docs.oracle.com/en/middleware/goldengate/core/19.1/index.html) - 19.1
 - [12.3](https://docs.oracle.com/goldengate/c1230/gg-winux/index.html) - 12.3
 - [12.2](https://docs.oracle.com/goldengate/c1221/gg-winux/index.html) - 12.2
 - [12.1](https://docs.oracle.com/goldengate/1212/gg-winux/index.html) - 12.1
