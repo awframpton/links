@@ -84,6 +84,6 @@
 - [FFMPEG Quick Guide](https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats) - Quick guide to using ffmpeg
 - [Hammerdb](https://www.hammerdb.com/) - db load testing
 ## cdc tools
-- [https://www.arcion.io/]
-- [https://www.striim.com/]
-- [https://www.hvr-software.com/]
+- [Arcion](https://www.arcion.io/)
+- [striim](https://www.striim.com/)
+- [hvr](https://www.hvr-software.com/)
