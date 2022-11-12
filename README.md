@@ -84,6 +84,7 @@
 - [XModulo Linux FAQ](https://www.xmodulo.com/) - Lots of Linux articles
 - [FFMPEG Quick Guide](https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats) - Quick guide to using ffmpeg
 - [Hammerdb](https://www.hammerdb.com/) - db load testing
+- [Starlabs Laptops](https://us.starlabs.systems/) - Linux laptops
 ## cdc tools
 - [Arcion](https://www.arcion.io/)
 - [striim](https://www.striim.com/)
