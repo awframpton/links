@@ -72,6 +72,7 @@
 - [Config Files](https://opensource.com/article/21/6/parse-configuration-files-python) - How to parse config files.
 - [Gunicorn web server](https://gunicorn.org/) - WSGI HTTP Server written in Python
 - [Celery](https://docs.celeryproject.org/en/stable/) - Task queue
+- [pymotw](https://pymotw.com/3/) - Python 3 Module of the week
 ## GoldenGate
 - [Oracle ATeam](http://www.ateam-oracle.com/di-ogg/) - Good repo of articles written by Oracle's ATeam.
 ## Ansible
