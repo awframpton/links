@@ -51,6 +51,7 @@
 - [TFA/AHF](https://support.oracle.com/epmos/faces/DocContentDisplay?id=2550798.1) - diagnostic tool, includes exachk
 - [Reboot Storage cell](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1188080.1) - steps to reboot a storage cell without affecting ASM.
 - [changing ips for an Exadata](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1317159.1) - steps to change ips for an Exadata
+- [Troubleshooting Database Transaction Recovery](https://support.oracle.com/epmos/faces/DocContentDisplay?id=1494886.1) - troubleshooting smon rollbacks
 ## postgres
 - [Postgres Weekly](https://postgresweekly.com/) - Postgres Weekly newsletter
 - [https://tapoueh.org/](https://tapoueh.org/) - Postgres Blog
