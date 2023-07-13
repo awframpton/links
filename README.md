@@ -82,6 +82,7 @@
 - [TuxURLs](https://tuxurls.com) - Linux news aggregator
 - [Vagrant and Libvirt](https://opensource.com/article/21/10/vagrant-libvirt) - How to use Vagrant with libvirt
 - [nixCraft](https://www.cyberciti.biz/) - lots of good Linux articles
+- [EnterpriseLinuxSecurity](https://enterpriselinuxsecurity.show/) - good Linux podcast
 ## misc
 - [Exadata MAA](https://www.oracle.com/technetwork/database/availability/exadata-maa-best-practices-155385.html)
 - [XModulo Linux FAQ](https://www.xmodulo.com/) - Lots of Linux articles
