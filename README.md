@@ -62,6 +62,7 @@
 - [PG Life](https://pglife.momjian.us/) - Bruce Momjian pglife site
 ## blogs
 - [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
+- [sqora](https://blog.sqlora.com/en/) - blog with sql macros and other oracle stuff
 ## oracle tuning
 - [Extended Statistics](https://blogs.oracle.com/optimizer/extended-statistics) - how to use extended statistics
 - [SQL Monitor](https://sqlmaria.com/2017/08/01/getting-the-most-out-of-oracle-sql-monitor/) - tips for using SQL Monitor including the history
