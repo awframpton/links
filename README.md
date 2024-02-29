@@ -78,6 +78,8 @@
 - [pymotw](https://pymotw.com/3/) - Python 3 Module of the week
 ## GoldenGate
 - [Oracle ATeam](http://www.ateam-oracle.com/di-ogg/) - Good repo of articles written by Oracle's ATeam.
+- [GoldenGate Lifetime Support](https://oraclespin.com/2022/08/16/goldengate-lifetime-support-schedule/) - Lifetime support
+- [Microservices Migration Tool](https://www.linkedin.com/pulse/oracle-goldengate-21c-migration-utility-juliana-a-gomes/) - tool to migrate to Microservices
 ## Ansible
 - [Building a Module](https://de.slideshare.net/yfauser/ansible-module-development-101-58580867) - A good presentation on building an Ansible Module
 ## Linux
