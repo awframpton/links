@@ -67,6 +67,7 @@
 ## oracle tuning
 - [Extended Statistics](https://blogs.oracle.com/optimizer/extended-statistics) - how to use extended statistics
 - [SQL Monitor](https://sqlmaria.com/2017/08/01/getting-the-most-out-of-oracle-sql-monitor/) - tips for using SQL Monitor including the history
+- [SPM](https://blogs.oracle.com/optimizer/post/repairing-sql-performance-regression-with-sql-plan-management) - cool new SPM features
 ## Python
 - [Oracle Example](https://laurent-leturgez.com/2018/08/30/executing-a-sql-statement-on-oracle-with-python/amp/?__twitter_impression=true) - Oracle by Laurent Leturgez
 - [Django Extensions](https://opensource.com/article/18/9/django-packages?sc_cid=701f2000000RRBeAAO)
