@@ -63,6 +63,7 @@
 - [Versioning Policy](https://www.postgresql.org/support/versioning/) - Postgres Versioning Policy.
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Postgres thin clones
 - [PG Life](https://pglife.momjian.us/) - Bruce Momjian pglife site
+- [pgPedia](https://pgpedia.info/) - Postgres encyclopedia type site
 ## blogs
 - [AskDba](http://askdba.org/weblog/) - Oracle and some Postgres
 - [sqora](https://blog.sqlora.com/en/) - blog with sql macros and other oracle stuff
